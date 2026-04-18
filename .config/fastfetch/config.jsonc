@@ -1,0 +1,38 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+    "logo": {
+    "type": "file",
+    "source": "~/.config/fastfetch/frojy_games.txt",
+    "padding": {
+        "left": 2,
+        "right": 2
+    },
+  },
+  "modules": [
+    "title",
+    "separator",
+    "os",
+    "host",
+    "kernel",
+    "uptime",
+    "packages",
+    "shell",
+    "break",
+    "display",
+    "de",
+    "wmtheme",
+    "theme",
+    "font",
+    "terminal",
+    "break",
+    "cpu",
+    "gpu",
+    "memory",
+    "disk",
+    "break",
+    "localip",
+    "locale",
+    "break",
+    "colors"
+  ]
+}
